@@ -144,7 +144,7 @@ ggplot(weather_df, aes(x= tmin, y = tmax)) +
 
 ### facets
 
-Plot with facets
+Plot with facets (chaifen
 
 ``` r
 ggplot(weather_df, aes(x= tmin, y = tmax, color = name)) +
