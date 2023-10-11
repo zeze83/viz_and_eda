@@ -175,7 +175,7 @@ ggp_tmax_date =
 
 
 
-## data manipulation
+## data manipulation - relevel / reorder
 
 ```{r}
 weather_df |>
